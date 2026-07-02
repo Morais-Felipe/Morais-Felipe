@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá! 👋
 
-<!--
-**Morais-Felipe/Morais-Felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o **Felipe**, estudante de Sistemas de Informação morando em Uberlândia.
 
-Here are some ideas to get you started:
+Gosto de transformar lógica e algoritmos em soluções. Se um desafio de programação aparece, eu tento resolver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha stack principal inclui **Java, C/C++, MySQL, PostgreSQL**. Minhas ferramentas favoritas no dia a dia são o Linux CachyOS e o GitHub.
+
+Atualmente, divido meu tempo entre a faculdade (UFU), projetos de desenvolvimento.
+
+**Curiosidades:**
+* Curto muito um café ☕
+* Meu anime favorito é Attack on titan
+* **Hobbies:** academia, tocar bateria, festivais de música e platinar jogos difíceis (Sekiro e Dark souls) 
