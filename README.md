@@ -11,4 +11,4 @@ Atualmente, divido meu tempo entre a faculdade (UFU), projetos de desenvolviment
 **Curiosidades:**
 * Curto muito um café ☕
 * Meu anime favorito é Attack on titan
-* **Hobbies:** academia, tocar bateria, festivais de música e platinar jogos difíceis (Sekiro e Dark souls) 
+* **Hobbies:** academia, tocar bateria, festivais de música e platinar jogos difíceis (souls like)
